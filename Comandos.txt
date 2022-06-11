@@ -1,0 +1,7 @@
+GIT Bash
+git clone http://			"clonando repositório
+cd desafio-dio				"entrando na pasta
+git status				"status
+git add .  OU git add -A		"adicionando
+git commit -m "comentário"		"commit
+git push origin main			"push
