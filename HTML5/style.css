@@ -42,6 +42,17 @@ a {
     text-transform: capitalize;
 }
 
-.post_image{
+.post_image {
     margin-bottom: 15px;
+}
+
+.contact_list {
+    background: yellow;
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    text-decoration: none;
+    color: aqua;
 }
