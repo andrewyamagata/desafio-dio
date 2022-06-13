@@ -7,6 +7,7 @@ body    {
 }
 
 .post_perfil {
+    border: 5px solid #505050;
     border-radius: 50%;
 }
 
