@@ -36,4 +36,13 @@ body {
     left: 2rem;
     border-left: 2px solid transparent;
     border-right: 17px solid transparent;
+    border-top: 17px solid #949494;
+}
+
+.chatbot_loading {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: #949494;
+    transform: scale(1);
 }
